@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Krishna Kumar, a Software Engineer and a tech Enthusiast, current working at Pickyourtrail. 
+I’m Krishna Kumar, a Software Engineer and a Tech Enthusiast, works at Pickyourtrail. 
 
 <!--
 **krish7x/krish7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
