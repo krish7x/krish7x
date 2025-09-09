@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Krishna Kumar, Software Engineer II and a Tech Enthusiast, works at Caratlane. 
+I’m Krishna Kumar, Senior Software Engineer and a Tech Enthusiast, works at Caratlane. 
 
 <!--
 **krish7x/krish7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
