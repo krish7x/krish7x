@@ -1,4 +1,4 @@
-# Hey, I'm Krishna Kumar 👋
+# Hey, I'm Krishnakumar Ganesh 👋
 
 ### Senior Software Engineer · Platform Engineering · Applied AI
 
